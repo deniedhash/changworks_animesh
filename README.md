@@ -2,7 +2,7 @@
 
 ### Demo
 
-https://changworksdeniedhash.netlify.app
+[Click Here](https://changworksdeniedhash.netlify.app) for Demo
 
 ### Instructions
 To run the project locally, follow these steps:
