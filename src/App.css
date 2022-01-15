@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  top: 33vh;
+  font-size: 40px;
+  font-weight: 100;
+  align-self: center;
+  text-decoration: underline;
+
+}
+
+
