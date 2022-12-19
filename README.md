@@ -1,4 +1,4 @@
-## Assignment project for ChangWorks
+## Assignment project
 
 ### Demo
 
